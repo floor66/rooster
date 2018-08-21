@@ -1,0 +1,8 @@
+Sun 19 09:22:55 Floris-PC php: [WARNING] Unable to initialize "db" service. Used Sqlite adapter at path: C:\Users\Floris\AppData\Local\Temp\phalcon.sqlite
+Sun 19 09:57:32 Floris-PC php: [WARNING] Unable to initialize "db" service. Used Sqlite adapter at path: C:\Users\Floris\AppData\Local\Temp\phalcon.sqlite
+Sun 19 09:57:48 Floris-PC php: [NOTICE] E_NOTICE: Undefined property: Phalcon\Config::$database in E:\User\Documents\GitHub\phalcon-devtools\scripts\Phalcon\Builder\AllModels.php on line 93
+Sun 19 09:57:48 Floris-PC php: [NOTICE] E_NOTICE: Trying to get property of non-object in E:\User\Documents\GitHub\phalcon-devtools\scripts\Phalcon\Builder\AllModels.php on line 93
+Sun 19 09:57:48 Floris-PC php: [WARNING] Unable to initialize "db" service. Used Sqlite adapter at path: C:\Users\Floris\AppData\Local\Temp\phalcon.sqlite
+Sun 19 09:57:59 Floris-PC php: [NOTICE] E_NOTICE: Undefined property: Phalcon\Config::$database in E:\User\Documents\GitHub\phalcon-devtools\scripts\Phalcon\Builder\AllModels.php on line 93
+Sun 19 09:57:59 Floris-PC php: [NOTICE] E_NOTICE: Trying to get property of non-object in E:\User\Documents\GitHub\phalcon-devtools\scripts\Phalcon\Builder\AllModels.php on line 93
+Sun 19 09:57:59 Floris-PC php: [WARNING] Unable to initialize "db" service. Used Sqlite adapter at path: C:\Users\Floris\AppData\Local\Temp\phalcon.sqlite

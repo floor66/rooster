@@ -1,0 +1,18 @@
+#container {
+	padding: 1em;
+}
+
+#nav {
+	border-right: 1px solid #EFEFEF;
+}
+
+#nav a {
+	padding: 0px;
+	margin-left: 1em;
+}
+
+#defaults p {
+	line-height: 1em;
+}
+
+
